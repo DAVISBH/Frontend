@@ -1,0 +1,43 @@
+src/
+
+components/
+    Navbar/
+    Button/
+    Card/
+    Calendar/
+    ProtectedRoute/
+    Loading/
+
+pages/
+
+    Login/
+    Register/
+    Home/
+    Schedule/
+    Services/
+    Barbers/
+    Calendar/
+    TimeSlots/
+    Confirm/
+    Appointments/
+    History/
+    Profile/
+
+services/
+
+    api.ts
+    auth.ts
+    appointment.ts
+    user.ts
+
+contexts/
+
+    AuthContext.tsx
+
+hooks/
+
+layouts/
+
+types/
+
+routes/
